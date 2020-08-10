@@ -54,7 +54,7 @@ permalink: /
 
 <div class="row" style="padding-top: 40px">
     <p class="slogan">12ships will make your journey to the blockchain investment</p>
-    <p class="slogan1">As EASY AS POSSIBLE</p>
+    <p class="slogan1">AS EASY AS POSSIBLE</p>
     <p class="slogan">by providing profitable and reliable mining infrastructure</p>
     <img src="/assets/img/banner.png" />
 </div>
