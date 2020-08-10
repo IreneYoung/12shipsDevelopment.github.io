@@ -45,7 +45,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: #fff;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -140,7 +140,16 @@
         border-radius:34px;
         height: 68px;
         width: 646px;
+        font-size: 24px;
+        &:focus {
+            outline: none;
+        }
       }
+
+      .email {
+          padding-left: 61px;
+      }
+
 
       input::placeholder {
           color: #D8D8D8;
@@ -183,7 +192,7 @@
 
   a {
       color: #042C8F;
-      margin-left: 50px;
+      margin:0 25px;
       font-size: 49px;
   }
 }
