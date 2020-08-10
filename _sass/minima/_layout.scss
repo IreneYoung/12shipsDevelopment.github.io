@@ -27,8 +27,17 @@
   float: right;
   height: auto!important;
 
+  label {
+      float: left;
+  }
+
   .nav-trigger {
       display: none;
+  }
+
+  .nav li:hover {
+        border-bottom: 5px rgb(0, 44, 140) solid;
+        background-color: rgb(247, 252, 255)
   }
 
   .menu-icon {
@@ -52,7 +61,7 @@
     background-color: $background-color;
     border: 1px solid $grey-color-light;
     border-radius: 5px;
-    text-align: right;
+    text-align: center;
 
     label[for="nav-trigger"] {
       display: block;
@@ -172,21 +181,10 @@
     opacity: 1;
   }
 
-  ul {
-      margin: 0px;
-      text-align: center;
-      position: relative;
-      left: 50%;
-      margin-left: -195px;
-      li {
-          margin: 0 42px;
-          float:left;
-          list-style: none;
-          a {
-              color: #042C8F;
-              font-size: 49px;
-          }
-      }
+  a {
+      color: #042C8F;
+      margin-left: 50px;
+      font-size: 49px;
   }
 }
 

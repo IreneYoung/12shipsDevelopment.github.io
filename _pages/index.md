@@ -41,13 +41,13 @@ permalink: /
 }
 
 .voyage .content {
-    width: 906px;
     height: 114px;
     font-size:18px;
     font-family:Muli;
     font-weight:400;
     line-height:28px;
     color:rgba(0,0,0,1);
+    margin: 100px;
     opacity:1;
 }
 </style>

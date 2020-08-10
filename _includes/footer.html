@@ -9,12 +9,10 @@
     </div>
     <div class="social row">
         <p>Follow us on social media</p>
-            <ul>
             {% assign socials = site.data.social %}
             {% for item in socials %}
-            <li><a href="{{ item.url }}" target="_blank"><i class="fab fa-{{ item.name }}"></i></a></li>
+            <a href="{{ item.url }}" target="_blank"><i class="fab fa-{{ item.name }}"></i></a>
             {% endfor %}
-            </ul>
     </div>
     <div class="copyright">
         <p>
