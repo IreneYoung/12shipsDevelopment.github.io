@@ -1,0 +1,28 @@
+- name: asic chip
+  assets: chip.png
+  points: 
+    - High performance & low power 
+    - Support multi-algorithm mining
+    - Supports functions like real-time switching, combination of multiple algorithms and parallel mining
+    - With world leading production process and low voltage technology
+- name: Immersion Cooling System
+  assets: cooling.png
+  points:
+    - 100 times more efficient than the air-cooling method
+    - Save up to 50% of the space and reduce 40% energy consumption
+    - Patented Heat Exchanger System
+    - Thermal energy recycling using mobile container module
+- name: hansando
+  assets: hansando.png
+  points: 
+    - The only Bitcoin mining pool in Korea
+    - 3S (Smart Monitoring, Smart Contract, Smart Voting) Easy UI / UX
+    - Transparent operation and calculate
+    - We will develop and offer more profitable digital asset options including Altcoin Mining in the future
+- name: HashChain
+  assets: hashchain.png
+  points:
+    - PoW-based public block-chain network
+    - Applies to data requiring forgery prevention and convenient verification
+    - Expansion from product / shipment history to quality / reputation
+    - The node that participated in the verification and generation of the block chain secured the rewards

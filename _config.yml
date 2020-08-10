@@ -1,0 +1,34 @@
+title: 12Ships
+author: 12shipsDevelopment
+email: contact@12ships.com
+description: Make your blockchain investment as easy as possible by providing profitable and reliable mining infrastructure
+
+baseurl: ""
+twitter_username: TwelveShips12
+github_username:  12shipsDevelopment
+
+show_excerpts: false
+
+header_pages:
+ - _pages/index.md
+ - _pages/asic.md
+ - _pages/hansando.md
+ - _pages/hashchain.md
+ - _pages/team.md
+
+include:
+  - _pages
+  - _posts
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+theme: minima
+relative_permalinks: false
+plugins:
+  - jekyll-feed
+

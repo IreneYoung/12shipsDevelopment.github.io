@@ -1,0 +1,99 @@
+.team {
+    text-align: center;
+    .head {
+        text-transform: uppercase;
+        font-size: 42px;
+        font-weight: bold;
+        line-height:80px;
+        margin: 60px 0;
+    }
+    .members {
+        float: left;
+        .member {
+            float:left;
+            width: 370px;
+            height: 640x;
+            box-shadow: 0px 1px 10px #ddd;
+            margin-bottom: 37px;
+            &:not(:nth-child(3n)) {
+                margin-right: 40px;
+            }
+            img {
+                width: 167px;
+                height: 167px;
+                margin: 37px 101px 17px 101px;
+            }
+            .name {
+                font-size: 24px;
+                font-weight: bold;
+                color: #042C8F;
+                padding-bottom: 16px;
+            }
+
+            .title {
+                height: 72px;
+                display: block;
+                font-weight: 300;
+                font-size: 16px;
+                line-height: 25px;
+                opacity: 1;
+            }
+            .description {
+                display:block;
+                height: 280px;
+                text-align: left;
+                font-size: 14px;
+                line-height: 20px;
+                margin-top: 19px;
+                color: #333333;
+                padding: 28px 41px 20px 41px;
+                border-top: 1px solid #D8D8D8;
+            }
+        }
+    }
+
+    .advisors {
+        float: left;
+        .advisor {
+            float:left;
+            width: 550px;
+            margin-bottom: 37px;
+            &:not(:last-child) {
+                border-right: 1px solid #D8D8D8;
+                padding-right: 83px;
+                margin-left: 50px;
+            }
+            &:not(:first-child) {
+                padding-left: 83px;
+            }
+            img {
+                width: 167px;
+                height: 167px;
+                margin: 37px 150px 17px 150px;
+            }
+            .name {
+                font-size: 24px;
+                font-weight: bold;
+                color: #042C8F;
+                padding-bottom: 16px;
+            }
+
+            .title {
+                height: 72px;
+                display: block;
+                font-weight: 300;
+                font-size: 16px;
+                line-height: 25px;
+                opacity: 1;
+            }
+            .description {
+                display:block;
+                text-align: left;
+                font-size: 14px;
+                line-height: 20px;
+                margin-top: 19px;
+                color: #333333;
+            }
+        }
+    }
+}

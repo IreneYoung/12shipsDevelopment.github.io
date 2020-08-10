@@ -1,0 +1,25 @@
+<footer class="site-footer h-card">
+    <div class="subscribe">
+        <p>SUBSCRIBE and be the FIRST one to have our latest news of ICO events.</p>
+
+        <form class='form'>
+            <input placeholder="Email  Address" />
+            <button class="subbtn">Stay Connected</button>
+        </form>
+    </div>
+    <div class="social row">
+        <p>Follow us on social media</p>
+            <ul>
+            {% assign socials = site.data.social %}
+            {% for item in socials %}
+            <li><a href="{{ item.url }}" target="_blank"><i class="fab fa-{{ item.name }}"></i></a></li>
+            {% endfor %}
+            </ul>
+    </div>
+    <div class="copyright">
+        <p>
+			<a href="mailto:contact@12ships.com">contact@12ships.com</a> <br>
+			12ships © All rights reserved
+		</p>
+    </div>
+</footer>

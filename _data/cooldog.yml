@@ -1,0 +1,21 @@
+- technology: GF22FDX
+- power: SW
+- algo:
+    - X17
+    - Qubit
+    - Lyra2REv2
+- asset:
+    - XVG
+    - DGB
+    - MONA
+- single:
+    - 60M
+    - 60M
+    - 30M
+- total:
+    - 6.48G
+    - 6.48G
+    - 3.24G
+
+
+

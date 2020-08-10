@@ -1,0 +1,74 @@
+
+@media screen and (max-width: 600px) {
+  .header-nav {
+    height: 90px;
+  }
+}
+
+.navbar-default{
+	margin-bottom: 0;
+	height: 90px;
+	//transition: all 0.250s;
+    // border-radius: 0;
+	background-color: #fff;
+    //border: none;
+	//transition: all 0.250s;
+	//border-bottom: 1px solid #d2d2d2;
+}
+
+.navbar-default .nav{
+}
+
+.navbar-default .nav li{
+    padding-top: 16px;
+    padding-bottom: 10px;
+}
+
+.navbar-default .nav li a{
+	font-size: 20px;
+	/* text-transform: uppercase; */
+	/* border: 1px solid transparent; */
+	font-family: 'Mukta Mahee', sans-serif;
+    font-weight: 300;
+	color:#7b7b7b;
+}
+.navbar-default.navbar-small .nav li{
+	margin-top:-3px;
+}
+
+.navbar-default.navbar-small .nav li.selected{
+	/* border-bottom:2px solid #073f72; */
+}
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus {
+	color: #000;
+	border: 1px solid #2260a6;
+}
+.navbar-default .nav  li:hover {
+    border-bottom: 5px rgb(0, 44, 140) solid;
+    background-color: rgb(247, 252, 255)
+}
+.navbar-small{
+	height: 50px;
+}
+.navbar-small .navbar-brand{
+	padding: 2px 15px;
+}
+.navbar-small .nav{
+	margin-top:0px;
+	border: none;
+}
+.navbar-default .navbar-nav > li > a{
+	border: none;
+}
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus{
+	color: #2260a6;
+	border:none;
+}
+.navbar-default .navbar-nav > li > a.selected,
+.navbar-default .navbar-nav > li.current_page_item a,
+.navbar-default .navbar-nav > li.current_page_parent a{
+	color: #2260a6;
+	border:none;
+}

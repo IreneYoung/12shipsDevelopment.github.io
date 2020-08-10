@@ -1,0 +1,9 @@
+- name: twitter
+  url: https://twitter.com/TwelveShips12
+  fa: twitter
+
+- name: telegram
+  url: https://t.me/TwelveSHIPS_Global
+
+- name: github
+  url: https://github.com/12shipsDevelopment
