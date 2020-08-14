@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: 12Ships members workshop at Seoul on June 2, 2018
 ---
 12Ships had a workshop with all members together at Seoul on June 2, 2018.

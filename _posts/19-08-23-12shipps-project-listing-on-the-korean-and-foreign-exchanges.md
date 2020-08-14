@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: 12Shipps Project Listing on the Korean and foreign exchanges
 ---
 <!-- wp:paragraph -->

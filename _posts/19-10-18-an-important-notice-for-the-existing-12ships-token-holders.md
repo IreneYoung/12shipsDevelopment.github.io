@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: An important notice for the existing 12SHIPS token holders
 ---
 <!-- wp:paragraph -->

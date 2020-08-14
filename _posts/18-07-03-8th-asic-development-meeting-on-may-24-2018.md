@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: 8th ASIC development meeting on May 24, 2018
 ---
 12Ships had 8th ASIC development meeting at Bundang on May 24, 2018.

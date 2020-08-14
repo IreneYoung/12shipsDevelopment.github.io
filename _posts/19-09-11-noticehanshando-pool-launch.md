@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: [Notice/Hanshando Pool Launch]
 ---
 <!-- wp:image {"id":1796} -->

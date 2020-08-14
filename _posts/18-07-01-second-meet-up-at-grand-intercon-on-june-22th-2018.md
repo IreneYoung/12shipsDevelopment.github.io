@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: Second Meet-up at Grand Intercon. on June 22th, 2018
 ---
 The second meet-up was held at Grand Intercontinental Hotel on June 22th, 2018.

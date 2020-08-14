@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: Hansando Pools official service launching
 ---
 <!-- wp:paragraph -->

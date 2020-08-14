@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: Notice 1st Burning of TSHP
 ---
 <!-- wp:paragraph -->

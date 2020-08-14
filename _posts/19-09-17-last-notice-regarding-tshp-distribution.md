@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: Last notice regarding TSHP distribution
 ---
 <!-- wp:paragraph -->

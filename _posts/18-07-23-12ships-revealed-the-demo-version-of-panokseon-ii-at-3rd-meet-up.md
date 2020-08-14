@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: 12Ships revealed the demo version of Panokseon II at 3rd Meet-up
 ---
 12Ships had 3rd Meet-up at COEX conference room on Jul. 20th.

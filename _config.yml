@@ -28,7 +28,9 @@ defaults:
       layout: default
 
 theme: minima
+sitemap: false
 relative_permalinks: false
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: First Meet-up at Coex on May 14th, 2018
 ---
 12Ships arranged the first meet-up at Coex conference room on May 14th, 2018.

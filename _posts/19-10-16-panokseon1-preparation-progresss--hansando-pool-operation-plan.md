@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: Panokseon1 Preparation Progresss & Hansando Pool Operation Plan
 ---
 <!-- wp:paragraph -->

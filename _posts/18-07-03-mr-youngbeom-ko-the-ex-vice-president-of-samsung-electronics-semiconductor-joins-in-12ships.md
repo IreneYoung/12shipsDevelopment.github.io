@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: Mr. Youngbeom Ko, the ex-vice president of Samsung Electronics Semiconductor, joins in 12Ships
 ---
 Mr. Youngbeom Ko, and Mr. Dongil Seo, the ex-vice presidents of Samsung Electronics Semiconductor, joined in 12Ships from July.

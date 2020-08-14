@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: TSHP Token Distribution Detail Guide
 ---
 <!-- wp:paragraph -->

@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: 12Ships participated in Blockchain Expo at Busan, Korea
 ---
 12Ships participated in Blockchain Expo at Busan from Jul. 26 to Jul. 27.

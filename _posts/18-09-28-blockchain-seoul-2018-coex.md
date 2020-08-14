@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: BLOCKCHAIN SEOUL 2018 COEX
 ---
 Participated at 'Block Chain Seoul’ 2018’ meetup

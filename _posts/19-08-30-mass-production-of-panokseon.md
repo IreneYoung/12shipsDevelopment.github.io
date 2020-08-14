@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: Mass Production of Panokseon
 ---
 <!-- wp:paragraph -->

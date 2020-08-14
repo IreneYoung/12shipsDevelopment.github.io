@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: AMCHAM Cryptocurrency Seminar 2018
 ---
 Participated at 'AMCHAM Cryptocurrency Seminar 2018'

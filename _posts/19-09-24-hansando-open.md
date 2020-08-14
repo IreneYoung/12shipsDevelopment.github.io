@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: 1st Milestone Hansando Pool Beta Open
 ---
 <!-- wp:paragraph -->

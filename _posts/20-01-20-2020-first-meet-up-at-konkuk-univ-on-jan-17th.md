@@ -1,5 +1,6 @@
 ---
 layout: post
+sitemap: false
 title: 2020 First Meet-up at Konkuk Univ. on Jan 17th
 ---
 <!-- wp:paragraph -->
