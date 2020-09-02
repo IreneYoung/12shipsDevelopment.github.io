@@ -1,7 +1,7 @@
 ---
 layout: default
 sitemap: false
-title: 
+title: Home
 permalink: /
 ---
 <link href="/assets/css/flexslider.css" rel="stylesheet">
