@@ -13,6 +13,6 @@ Inaccordance with [*12Ships Monthly Report-August 2020*](https://medium.com/@12S
 
 Many thanks for your trust and support!
 
-## 12Ships Foundation
+## 12Ships Foundation 
 
 September 17, 2020
